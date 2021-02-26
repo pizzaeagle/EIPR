@@ -34,6 +34,8 @@ a lot of shuffling.
    
 2. Logic is dived so that one would be able to create more unit tests.
 
+3. Of course adding logging would be great.
+
 
 
 
